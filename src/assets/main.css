@@ -1,0 +1,24 @@
+@import './base.css';
+
+body {
+   
+        position: relative;
+        display: block;
+        padding: 0;
+        margin: 0;
+        background-image: url("https://i.pinimg.com/originals/36/43/2e/36432efea95d385a3495f56b434daa96.gif");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        
+        /* background:linear-gradient(
+            to right,
+            rgba(55, 252, 33, 0.642),
+            #28b485e2
+          ); */
+          
+        /* background-position: top; */
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 4rem;
+    }
+
